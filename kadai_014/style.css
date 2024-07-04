@@ -4,15 +4,14 @@ body{
 .google-fonts{
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: weight;
   font-style: normal;
 }
 html{
   font-size: 20px;
 }
 h1{
-  font-size: 2em;
-  letter-spacing: 1.2em;
+  font-size: 2rem;
+  letter-spacing: 1.2rem;
   text-shadow: 1px 1px 2px gray;
   border-bottom: solid 3px rgb(115, 115, 114)
 }
@@ -25,7 +24,7 @@ h1{
 body{
   text-align: center;
 }
-.decoration{
+#bold{
   font-weight: bold;
   }
 
